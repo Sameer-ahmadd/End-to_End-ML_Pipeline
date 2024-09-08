@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/211466124554221596/d13937e28fab46739d105dee10073201/artifacts
+end_time: 1725780823106
+entry_point_name: ''
+experiment_id: '211466124554221596'
+lifecycle_stage: active
+run_id: d13937e28fab46739d105dee10073201
+run_name: bittersweet-ray-60
+run_uuid: d13937e28fab46739d105dee10073201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725780807871
+status: 3
+tags: []
+user_id: ubuntu

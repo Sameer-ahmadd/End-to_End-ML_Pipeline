@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/211466124554221596
+creation_time: 1725777671295
+experiment_id: '211466124554221596'
+last_update_time: 1725777671295
+lifecycle_stage: active
+name: cancelation_estimator
