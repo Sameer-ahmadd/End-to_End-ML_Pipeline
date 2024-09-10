@@ -64,16 +64,6 @@ The repository is structured as follows:
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/37457f23-eb80-419a-9934-0e02e3d8d3d2)
 
-# Mlflow Model Registry
-* Mlflow is used for managing model versions and tracking experiments.
-* The Mlflow UI provides insights into model versions, experiment tracking, and model serving.
-
-
-
-
-
-
-
 
 
 # XCom Values
@@ -81,6 +71,11 @@ The repository is structured as follows:
 * The data passed between tasks during the pipeline execution, including model outputs and intermediate values.
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/caf67e21-b859-4804-96f0-00e82b3ef6bd)
+
+# Mlflow Model Registry
+* Mlflow is used for managing model versions and tracking experiments.
+* The Mlflow UI provides insights into model versions, experiment tracking, and model serving.
+
 
 
 
