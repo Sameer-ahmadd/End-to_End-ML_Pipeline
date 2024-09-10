@@ -1,7 +1,7 @@
 
 # Reservation Cancellation Forecasting: 
 
-![Pipelines] ![ml_pipelines](https://github.com/user-attachments/assets/4a4cf15d-5b21-4f23-95e8-a7e1d09cfcd6)
+![ml_pipelines](https://github.com/user-attachments/assets/4a4cf15d-5b21-4f23-95e8-a7e1d09cfcd6)
 
 
 In this repository, you'll find a project I handled during a Machine Learning assignment for a leader in the short-term rental industry. 
