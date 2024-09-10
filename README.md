@@ -59,6 +59,19 @@ The repository is structured as follows:
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/86e7d250-a423-4c70-9792-da802f39100d)
 
+# Inference Pipeline
+* The inference pipeline processes new data and applies the trained model to make predictions.
+
+
+
+
+
+# XCom Values
+* Airflow XComs are used for passing messages or data between tasks.
+* The data passed between tasks during the pipeline execution, including model outputs and intermediate values.
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
