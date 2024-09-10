@@ -32,17 +32,18 @@ To accomplish this task, **Airflow** and **Mlflow** are used to build Machine Le
 │   ├── 0_exploratory_data_analysis.ipynb
 │   └── 1_preprocessed_data_check.ipynb
 ├── requirements.txt
-├── plugins
-    ├── steps
-        ├── condition_step.py
-        ├── config.py
-        ├── feature_engineering_step.py
-        ├── inference_step.py
-        ├── preprocess_step.py
-        ├── train_step.py
-        └── utils
-            ├── _artifact.py
-            └── data_classes.py
+├── airflow
+    ├── plugins
+        ├── steps
+            ├── condition_step.py
+            ├── config.py
+            ├── feature_engineering_step.py
+            ├── inference_step.py
+            ├── preprocess_step.py
+            ├── train_step.py
+            └── utils
+                ├── _artifact.py
+                └── data_classes.py
 ```
 
 The repository is structured as follows:
