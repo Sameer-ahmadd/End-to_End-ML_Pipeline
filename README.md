@@ -56,6 +56,7 @@ The repository is structured as follows:
 # Airflow UI
 # Training Pipeline
 * you can see the workflow for training the model. Each task represents a step in the training process, demonstrating the successful execution of the entire pipeline.
+
 ![Screenshot (13)](https://github.com/user-attachments/assets/86e7d250-a423-4c70-9792-da802f39100d)
 
 
