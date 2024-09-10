@@ -64,6 +64,12 @@ The repository is structured as follows:
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/37457f23-eb80-419a-9934-0e02e3d8d3d2)
 
+# Mlflow Model Registry
+* Mlflow is used for managing model versions and tracking experiments.
+* The Mlflow UI provides insights into model versions, experiment tracking, and model serving.
+
+
+
 
 
 
