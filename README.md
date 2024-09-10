@@ -1,15 +1,7 @@
-<a name="readme-top"></a>
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 
 # Reservation Cancellation Forecasting: 
 
-![Pipelines](https://github.com/Sameer-ahmadd/Robust_Machine_Learning_Pipelines_using_Airflow_and_Mlflow/issues/1#issue-2515388839)
+![Pipelines]https://github.com/Sameer-ahmadd/Robust_Machine_Learning_Pipelines_using_Airflow_and_Mlflow
 
 In this repository, you'll find a project I handled during a Machine Learning assignment for a leader in the short-term rental industry. 
 
