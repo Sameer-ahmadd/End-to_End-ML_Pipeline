@@ -53,6 +53,11 @@ The repository is structured as follows:
 * In the *data* folder is located the original dataset that was provided for this assignement, in addition of a sample for batch prediction. *data/features_store* and *data/preprocessed* are directories to store the data once processed by some stages of the pipelines, such as **preprocessing** or **features_engineering** steps.
 * The same idea for *artifacts* that contains **encoders** generated during the **features_engineering** step.
 
+# Airflow UI
+# Training Pipeline
+* you can see the workflow for training the model. Each task represents a step in the training process, demonstrating the successful execution of the entire pipeline.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
