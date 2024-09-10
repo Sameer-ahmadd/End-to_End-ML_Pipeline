@@ -74,6 +74,9 @@ The repository is structured as follows:
 * Airflow XComs are used for passing messages or data between tasks.
 * The data passed between tasks during the pipeline execution, including model outputs and intermediate values.
 
+![Screenshot (19)](https://github.com/user-attachments/assets/caf67e21-b859-4804-96f0-00e82b3ef6bd)
+
+
 
 
 
