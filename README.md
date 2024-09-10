@@ -62,6 +62,10 @@ The repository is structured as follows:
 # Inference Pipeline
 * The inference pipeline processes new data and applies the trained model to make predictions.
 
+![Screenshot (15)](https://github.com/user-attachments/assets/37457f23-eb80-419a-9934-0e02e3d8d3d2)
+
+
+
 
 
 
